@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**serogieee/serogieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT student who spends time creating new things, solving, and figuring things out the hard way  
+🎮 Currently building projects like games, systems, and anything that turns ideas into reality  
 
-Here are some ideas to get you started:
+🌱 Always learning something new (Unity, SQL, system design, and more)  
+🚀 Trying to improve one project at a time — no shortcuts, just progress  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 You can ask me about:
+- Unity game development
+- SQL & database projects
+- System building ideas
+
+⚡ Fun fact:
+I enjoy solving problems even if it takes hours… or breaks my code first 😅
