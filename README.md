@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Chuyyyy 👋
 
 💻 IT student who spends time creating new things, solving, and figuring things out the hard way  
 🎮 Currently building projects like games, systems, and anything that turns ideas into reality  
