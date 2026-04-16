@@ -11,5 +11,25 @@
 - SQL & database projects
 - System building ideas
 
+
+Tools used: 
+💻 Programming / Dev
+- C#
+- SQL
+
+🎮 Game Development
+- Unity
+
+🗄️ Database
+- MySQL
+
+🌐 Networking
+- Cisco Packet Tracer
+
+💻 IDEs
+- Visual Studio
+- Visual Studio Code
+
+
 ⚡ Fun fact:
 I enjoy solving problems even if it takes hours… or breaks my code first 😅
