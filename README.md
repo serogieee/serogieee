@@ -23,6 +23,7 @@ Tools used:
 
 🗄️ Database
 - MySQL
+- Blender (Object/Asset Modeling)
 
 🌐 Networking
 - Cisco Packet Tracer
@@ -32,5 +33,5 @@ Tools used:
 - Visual Studio Code
 
 
-⚡ Fun fact:
+
 I enjoy solving problems even if it takes hours… or breaks my code first 😅
