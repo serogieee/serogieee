@@ -16,6 +16,7 @@ Tools used:
 💻 Programming / Dev
 - C#
 - SQL
+- Java
 
 🎮 Game Development
 - Unity
