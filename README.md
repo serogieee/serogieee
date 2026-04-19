@@ -14,7 +14,7 @@
 
 Tools used: 
 💻 Programming / Dev
-- C#
+- Basic C#
 - SQL
 - Java
 
@@ -23,10 +23,10 @@ Tools used:
 
 🗄️ Database
 - MySQL
-- Blender (Object/Asset Modeling)
+- Basic Blender (Object/Asset Modeling)
 
 🌐 Networking
-- Cisco Packet Tracer
+- Basic Cisco Packet Tracer
 
 💻 IDEs
 - Visual Studio
