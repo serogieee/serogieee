@@ -1,46 +1,61 @@
-## Hi Chuyyyy 👋
+CYREL DAVE A. ANSING
+Initao, Misamis Oriental
+cyreldave.ansing@msunaawan.edu.ph
+ | 09625024023
 
-💻 IT student who spends time creating new things, solving, and figuring things out the hard way  
-🎮 Currently building projects like games, systems, and anything that turns ideas into reality  
+OBJECTIVE
+Motivated IT student passionate about building systems, developing games, and solving complex problems through hands-on learning. Continuously improving skills in software development, database management, and system design by creating real-world projects.
 
-🌱 Always learning something new (Unity, SQL, system design, and more)  
-🚀 Trying to improve one project at a time — no shortcuts, just progress  
-
-💬 You can ask me about:
-- Unity game development
-- SQL & database projects
-- System building ideas
+EDUCATION
+Mindanao State University – Naawan
+Bachelor of Science in Information Technology
+(Year Started – Present)
 
 ACHIEVEMENTS
 
-Dean’s Lister, Mindanao State University – Naawan (Year 2024)
+Dean’s Lister – 2024
 
 EXTRACURRICULAR ACTIVITIES
+Varsity Badminton Player
+Mindanao State University – Naawan | 2022 – 2024
 
-Varsity Badminton Player, Mindanao State University – Naawan 2022 – 2024
-- Represented the university in MSUSAA 2024
-  Demonstrated teamwork, discipline, and      competitive performance
+Represented the university in MSUSAA 2024
+Demonstrated teamwork, discipline, and competitive mindset
 
-Tools used: 
-💻 Programming / Dev
-- Basic C#
-- SQL
-- Java
+TECHNICAL SKILLS
 
-🎮 Game Development
-- Unity
+Programming:
 
-🗄️ Database
-- MySQL
-- Basic Blender (Object/Asset Modeling)
+C# (Basic)
+Java (Basic)
+SQL
 
-🌐 Networking
-- Basic Cisco Packet Tracer
+Game Development:
 
-💻 IDEs
-- Visual Studio
-- Visual Studio Code
+Unity
 
+Database:
 
+MySQL
 
-I enjoy solving problems even if it takes hours… or breaks my code first 😅
+3D / Assets:
+
+Blender (Basic Object & Asset Modeling)
+
+Networking:
+
+Cisco Packet Tracer (Basic)
+
+Tools / IDEs:
+
+Visual Studio
+Visual Studio Code
+
+PROJECTS
+
+Game Development Projects (Unity-based)
+Database Systems (SQL/MySQL)
+System Design Projects
+
+ABOUT ME
+I enjoy solving problems—even if it takes hours or breaks my code first. I focus on learning by doing, building projects, and continuously improving one step at a time.
