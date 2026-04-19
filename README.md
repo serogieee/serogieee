@@ -10,12 +10,11 @@
 - Unity game development
 - SQL & database projects
 - System building ideas
-ACHIEVEMENTS
 
+ACHIEVEMENTS
 Dean’s Lister, Mindanao State University – Naawan (Year/s if applicable)
 
 EXTRACURRICULAR ACTIVITIES
-
 Varsity Badminton Player, Mindanao State University – Naawan 2022 – 2024
 - Represented the university in MSUSAA 2024
   Demonstrated teamwork, discipline, and      competitive performance
