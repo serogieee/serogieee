@@ -13,7 +13,7 @@
 
 ACHIEVEMENTS
 
-Dean’s Lister, Mindanao State University – Naawan (Year/s if applicable)
+Dean’s Lister, Mindanao State University – Naawan (Year 2024)
 
 EXTRACURRICULAR ACTIVITIES
 
