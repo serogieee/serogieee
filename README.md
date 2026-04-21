@@ -16,7 +16,7 @@ Bachelor of Science in Information Technology
 (Year Started – Present)
 
 🏆 Achievements
-Dean’s Lister – 2024
+- Dean’s Lister – 2024
 🏸 Extracurricular Activities
 
 Varsity Badminton Player
@@ -24,22 +24,29 @@ Mindanao State University – Naawan (2022 – 2024)
 
 Represented the university in MSUSAA 2024
 Developed strong teamwork, discipline, and competitive mindset
-💻 Technical Skills
-🧑‍💻 Programming
-C# (Basic)
-Java (Basic)
-SQL
+- 💻 Technical Skills
+- 🧑‍💻 Programming
+- C# (Basic)
+- Java (Basic)
+- SQL
+
+  
 🎮 Game Development
-Unity
+- Unity
+  
 🗄️ Database
-MySQL
+- MySQL
+
 🎨 3D / Assets
-Blender (Basic Object & Asset Modeling)
+- Blender (Basic Object & Asset Modeling)
+  
 🌐 Networking
-Cisco Packet Tracer (Basic)
+- Cisco Packet Tracer (Basic)
 🛠️ Tools / IDEs
-Visual Studio
-Visual Studio Code
+- Visual Studio
+- Visual Studio Code
+
+
 🚀 Projects
 🎮 Unity Game Development Projects
 🗃️ Database Systems (SQL/MySQL)
