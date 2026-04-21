@@ -10,10 +10,10 @@
 Motivated IT student passionate about building systems, developing games, and solving complex problems through hands-on learning. Continuously improving skills in software development, database management, and system design by creating real-world projects.
 
 🎓 Education
-**Secondary**
+- **Secondary**
 Kalacapan National High School 
 
-**Tertiary**
+- **Tertiary**
 Mindanao State University – Naawan
 Bachelor of Science in Information Technology
 
